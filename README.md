@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Adding a new Line.
 My name is Amit Kumar Dey.
 <!--
 **2022wb86130/2022wb86130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
